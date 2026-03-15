@@ -48,3 +48,27 @@ node index.js
 | PUT    | /api/filmler/:id  | Filmi güncelle  |
 | DELETE | /api/filmler/:id  | Filmi sil       |
 
+<h2>Screenshots</h2>
+
+<table>
+<tr>
+<td align="center">
+Home Screen <br>
+<img src="assets/screenshots/home.png" width="350"/>
+</td>
+
+<td align="center">
+Search Film <br>
+<img src="assets/screenshots/search.png" width="350"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+Add Film <br>
+<img src="assets/screenshots/add_film.png" width="350"/>
+</td>
+
+
+</tr>
+</table>
