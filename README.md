@@ -5,7 +5,7 @@ React + TypeScript + Bootstrap ile yapılmış basit film takip uygulaması.
 ## 📁 Klasör Yapısı
 
 ```
-film-junior/
+film-app/
 ├── src/
 │   ├── components/
 │   │   ├── FilmForm.tsx      # Ekle & Güncelle formu
@@ -47,3 +47,4 @@ node index.js
 | POST   | /api/filmler      | Yeni film ekle  |
 | PUT    | /api/filmler/:id  | Filmi güncelle  |
 | DELETE | /api/filmler/:id  | Filmi sil       |
+
